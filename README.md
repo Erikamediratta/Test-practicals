@@ -134,6 +134,8 @@
 <img width="1280" height="443" alt="image" src="https://github.com/user-attachments/assets/c8e5d662-4aa4-4ed3-9e66-a6cf11394d49" />
 
 <img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/dde65a19-54ba-41c7-8c6b-73a6462e36ca" />
+<img width="1095" height="513" alt="image" src="https://github.com/user-attachments/assets/f58bb8e6-a6b3-431f-b59c-ad893e23ee59" />
+
 
 
 # PRACTICAL 10 
